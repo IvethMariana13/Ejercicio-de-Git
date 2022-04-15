@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmb0etb6MZn0il8nZhcNRs2h/H0KRtqP2lZawLMGeCtuIbluTQocPvgPYBllWOvRrsi8FMFhgG4VO1Yh8Yhquw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariana\\source\\repos\\Git_Ejercicio\\Git_Ejercicio\\Git_Ejercicio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
